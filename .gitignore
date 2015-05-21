@@ -1,4 +1,8 @@
 .idea/
 *.pyc
 .project
+<<<<<<< HEAD
 djangoweb/db.sqlite3
+=======
+*.sqlite3
+>>>>>>> 9f65dfb067d4653c4d1f9442327c98c9e3f5e601
