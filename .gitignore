@@ -1,3 +1,4 @@
 .idea/
 *.pyc
 .project
+djangoweb/db.sqlite3
